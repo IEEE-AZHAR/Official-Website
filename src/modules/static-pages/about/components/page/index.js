@@ -14,7 +14,7 @@ function AboutPage() {
   return (
     <>
       <Helmet>
-        <title> About us | IEEE Al-Azhar </title>
+        <title> About us | IEEE Al-Azhar Student Branch</title>
       </Helmet>
       <div className="container">
         <AboutHeader />

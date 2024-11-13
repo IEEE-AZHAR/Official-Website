@@ -12,7 +12,7 @@ class IEEESection extends Component {
     return (
       <>
         <section className={styles.AZA_IEEE_sec}>
-          <h1 className={styles.AZA_IEEE_sec__heading}>IEEE-AZHAR</h1>
+          <h1 className={styles.AZA_IEEE_sec__heading}>IEEE Al-AZhar</h1>
           <div className={styles.content_AZAIEEE}>
             <div className={styles.IEEEAZALogo}>
               <img

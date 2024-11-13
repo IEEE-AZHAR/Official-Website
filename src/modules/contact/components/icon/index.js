@@ -6,7 +6,7 @@ class Icon extends Component {
     return (
       <section className="col-lg m-auto">
         <header>
-          <h1 style={{ color: "var(--text-secondary)" }}>CONTACT US</h1>
+          <h1 style={{ color: "var(--text-secondary)" }}>Contact Us</h1>
         </header>
         <svg
           className={`bi bi-envelope ${styles["message-icon"]}`}

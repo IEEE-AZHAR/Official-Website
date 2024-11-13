@@ -22,7 +22,7 @@ class Structure extends Component {
                     ? IEEEStr1200
                     : IEEEStr2500
                 }
-                alt="IEEE Alazhar -structure-team"
+                alt="IEEE Al-Azhar -structure-team"
                 className={styles.IEEE_str_img__structureImg}
               />
             </div>

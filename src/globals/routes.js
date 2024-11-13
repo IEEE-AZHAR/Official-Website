@@ -14,12 +14,12 @@ import NotFoundPage from "shared/notFoundPage";
 
 export default [
   { path: "/", component: HomePage, label: "Home" },
-  { path: "/about-us", component: AboutPage, label: "About us" },
+  { path: "/about-us", component: AboutPage, label: "About Us" },
   { path: "/services/:id", component: SingleServicePage },
   { path: "/events", component: EventsListPage, label: "Events" },
   { path: "/events/:id", component: SingleEventPage },
   { path: "/blog", component: BlogListPage, label: "Blog" },
   { path: "/blog/:id/:title", component: SingleBlogPage },
-  { path: "/contact-us", component: ContactPage, label: "Contact us" },
+  { path: "/contact-us", component: ContactPage, label: "Contact Us" },
   { path: "/404", component: NotFoundPage },
 ];

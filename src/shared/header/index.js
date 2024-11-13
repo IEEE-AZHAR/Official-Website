@@ -106,7 +106,7 @@ export default class Header extends Component {
             width="80"
             height="80"
             alt=""
-            title="IEEE-Azhar Student Branch"
+            title="IEEE Al-Azhar Student Branch"
           />
         </a>
 
